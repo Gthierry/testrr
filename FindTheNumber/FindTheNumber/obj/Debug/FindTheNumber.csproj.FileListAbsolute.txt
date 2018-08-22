@@ -1,0 +1,14 @@
+C:\Users\Thierry\source\repos\FindTheNumber\FindTheNumber\bin\Debug\FindTheNumber.exe.config
+C:\Users\Thierry\source\repos\FindTheNumber\FindTheNumber\bin\Debug\FindTheNumber.exe
+C:\Users\Thierry\source\repos\FindTheNumber\FindTheNumber\bin\Debug\FindTheNumber.pdb
+C:\Users\Thierry\source\repos\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.csprojAssemblyReference.cache
+C:\Users\Thierry\source\repos\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\Thierry\source\repos\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.exe
+C:\Users\Thierry\source\repos\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.pdb
+E:\FindTheNumber\FindTheNumber\bin\Debug\FindTheNumber.exe.config
+E:\FindTheNumber\FindTheNumber\bin\Debug\FindTheNumber.exe
+E:\FindTheNumber\FindTheNumber\bin\Debug\FindTheNumber.pdb
+E:\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.csprojAssemblyReference.cache
+E:\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.csproj.CoreCompileInputs.cache
+E:\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.exe
+E:\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.pdb
